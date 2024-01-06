@@ -1,0 +1,8 @@
+# PATHS
+path: /content/drone_dataset
+train: train/images/
+val: valid/images/
+
+# Classes
+names:
+  0: drone
